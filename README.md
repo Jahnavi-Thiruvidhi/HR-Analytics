@@ -15,9 +15,15 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 4️⃣ The age group of 25-34 years had the highest attrition rate, warranting targeted retention strategies for this demographic.<br>
 5️⃣ There are more number of employees under the age group of 25-34 years.<br>
 6️⃣ The attrition rate of R&D Department is maximum with 90%<br>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
-  
-<iframe title="HR ANALYTICS DASHBOARD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTc0ZmNjZDEtZDhlMS00OWI5LWFhNjQtMmI3MDFmNmM3MTYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="Coffee Shop Sales" width="1000" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZjY3N2MwZTktMDYwZi00MzEwLTk3NTktNDJlMGVlODE4ODE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 </body>
 </html>
