@@ -1,6 +1,13 @@
 ## HR Analytics 
 ## Dataset Overview
 Our comprehensive dataset includes employee information such as age, gender, attrition, business travel, department, field of education, monthly salary, job role, years at the company, and more.
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <img src="https://github.com/Jahnavi-Thiruvidhi/HR-Analytics/blob/main/DashBoard%20.png?raw=true" >
+
+</body>
+</html>
 
 ## 🔍 Analysis Objective<br>
 Our aim is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention.
@@ -15,10 +22,4 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 4️⃣ The age group of 25-34 years had the highest attrition rate, warranting targeted retention strategies for this demographic.<br>
 5️⃣ There are more number of employees under the age group of 25-34 years.<br>
 6️⃣ The attrition rate of R&D Department is maximum with 90%<br>
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <img src="https://github.com/Jahnavi-Thiruvidhi/HR-Analytics/blob/main/Screenshot%20(2).png?raw=true" >
 
-</body>
-</html>
