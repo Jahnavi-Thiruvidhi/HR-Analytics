@@ -18,7 +18,7 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <iframe title="Coffee Shop Sales" width="1000" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZjY3N2MwZTktMDYwZi00MzEwLTk3NTktNDJlMGVlODE4ODE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+    <img src="https://app.powerbi.com/view?r=eyJrIjoiZjY3N2MwZTktMDYwZi00MzEwLTk3NTktNDJlMGVlODE4ODE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true">
 
 </body>
 </html>
