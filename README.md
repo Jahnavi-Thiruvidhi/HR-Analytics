@@ -18,7 +18,7 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <img src="https://app.powerbi.com/view?r=eyJrIjoiZjY3N2MwZTktMDYwZi00MzEwLTk3NTktNDJlMGVlODE4ODE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true">
+    <object src="https://app.powerbi.com/view?r=eyJrIjoiZjY3N2MwZTktMDYwZi00MzEwLTk3NTktNDJlMGVlODE4ODE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></object>
 
 </body>
 </html>
