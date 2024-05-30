@@ -1,4 +1,4 @@
-## Dataset Overview:<b> Our comprehensive dataset includes employee information such as age, gender, attrition, business travel, department, field of education, monthly salary, job role, years at the company, and more <b>.
+## Dataset Overview:<b> Our comprehensive dataset includes employee information such as age, gender, attrition, business travel, department, field of education, monthly salary, job role, years at the company, and more </b>.
 
 ## 🔍 Analysis Objective: Our aim is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention.
 
