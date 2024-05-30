@@ -23,3 +23,4 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 5️⃣ There are more number of employees under the age group of 25-34 years.<br>
 6️⃣ The attrition rate of R&D Department is maximum with 90%<br>
 
+![](https://app.powerbi.com/view?r=eyJrIjoiMTc0ZmNjZDEtZDhlMS00OWI5LWFhNjQtMmI3MDFmNmM3MTYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br/>
