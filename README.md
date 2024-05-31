@@ -1,6 +1,7 @@
-## HR Analytics 
+## HR Analytics Dashboard Using PowerBI
 ## Dataset Overview
 Our comprehensive dataset includes employee information such as age, gender, attrition, business travel, department, field of education, monthly salary, job role, years at the company, and more.
+## Dashboard
 <!DOCTYPE html>
 <html lang="en">
 <body>
