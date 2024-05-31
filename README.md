@@ -16,6 +16,30 @@ Our aim is to identify the key factors driving employee attrition and provide ac
 ## 🛠️ Tool Used<br>
 Powered by Microsoft Power BI, this report offers intuitive visualizations and interactive features.
 
+## Steps followed:
+1. Data Gathering:
+
+   ~ Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
+
+2. Data cleaning:
+
+   ~ Cleaning is done by removing empty column, removing duplicates, errors etc.
+   ~ Replacing values in column with proper values and naming.
+   ~ Detecting data type of every column, using the auto detect data type function in Power query editor.
+
+3. Data processing:
+
+   ~ In the Power Query editor, creating new column called "AttritionCount" by using conditional column feature in add column which is created on the basis of certain condition like (IF 
+     attrition = 'Yes' then 1, Else 0).
+   ~ This new column is further used for creating different KPI's and charts.Then creating the Attrition Rate by applying DAX queries, adding new measure (Attrition Rate = 
+     SUM([AttritionCount]))/SUM([Employeecount])) in %. 
+
+4. Data analysis:
+
+   ~ Analysis involves the creation of a range of visual representations, including bar charts, key performance indicators (KPIs), table charts, pie charts, and other relevant 
+     visualizations.
+   ~ These tools are utilized to gain insights and present data in a comprehensive and easily understandable manner.
+   
 ## Key Insights💡<br>
 1️⃣ We observed an overall attrition rate of 16.12% among our workforce of 1470 employees.<br>
 2️⃣ 17% of the Male workforce, i.e. 150 males and 15% of the Female workforce, i.e. 87 females left the organization.<br>
@@ -24,4 +48,4 @@ Powered by Microsoft Power BI, this report offers intuitive visualizations and i
 5️⃣ There are more number of employees under the age group of 25-34 years.<br>
 6️⃣ The attrition rate of R&D Department is maximum with 90%<br>
 
-![](https://app.powerbi.com/view?r=eyJrIjoiMTc0ZmNjZDEtZDhlMS00OWI5LWFhNjQtMmI3MDFmNmM3MTYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br/>
+
